@@ -3,6 +3,5 @@
     <!--Top level DayNight theme to be used in AndroidManifest.xml-->
     <style name="Theme.Backflow.Calculator" parent="Base.Theme.Backflow.Calculator">
         <!--Material color attributes (dark theme) -->
-        <item name="android:statusBarColor" tools:ignore="NewApi">?colorSurface</item>
     </style>
 </resources>
