@@ -1,4 +1,4 @@
-package com.km.backflow.calculator.helpers
+package nl.kmartin.backflowcalculator.helpers
 
 import android.app.Activity
 import android.content.Context

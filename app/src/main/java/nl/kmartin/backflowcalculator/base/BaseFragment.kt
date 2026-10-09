@@ -1,4 +1,4 @@
-package com.km.backflow.calculator.base
+package nl.kmartin.backflowcalculator.base
 
 import android.os.Bundle
 import android.view.LayoutInflater

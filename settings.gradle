@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "backflow-calculator"
+rootProject.name = "Backflow Calculator"
 include ':app'

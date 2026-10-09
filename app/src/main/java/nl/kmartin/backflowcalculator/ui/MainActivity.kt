@@ -1,17 +1,15 @@
-package com.km.backflow.calculator.ui
+package nl.kmartin.backflowcalculator.ui
 
-import android.graphics.Color
 import android.os.Bundle
-import androidx.activity.SystemBarStyle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.updatePadding
-import com.km.backflow.calculator.BuildConfig
-import com.km.backflow.calculator.R
-import com.km.backflow.calculator.databinding.ActivityMainBinding
+import nl.kmartin.backflowcalculator.BuildConfig
+import nl.kmartin.backflowcalculator.R
+import nl.kmartin.backflowcalculator.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.km.backflow.calculator
+package nl.kmartin.backflowcalculator
 
 import org.junit.Test
 

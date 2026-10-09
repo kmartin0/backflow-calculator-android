@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.km.backflow.calculator"
+    namespace = "nl.kmartin.backflowcalculator"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.km.backflow.calculator"
+        applicationId = "nl.kmartin.backflowcalculator"
         minSdk = 21
         targetSdk = 37
         versionCode = 4

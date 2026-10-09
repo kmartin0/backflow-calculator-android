@@ -1,4 +1,4 @@
-package com.km.backflow.calculator.ui.calculator
+package nl.kmartin.backflowcalculator.ui.calculator
 
 import android.os.Bundle
 import android.view.View
@@ -6,10 +6,10 @@ import android.view.inputmethod.EditorInfo
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.updatePadding
-import com.km.backflow.calculator.R
-import com.km.backflow.calculator.base.BaseMVVMFragment
-import com.km.backflow.calculator.databinding.FragmentCalculatorBinding
-import com.km.backflow.calculator.helpers.hideKeyboard
+import nl.kmartin.backflowcalculator.R
+import nl.kmartin.backflowcalculator.base.BaseMVVMFragment
+import nl.kmartin.backflowcalculator.databinding.FragmentCalculatorBinding
+import nl.kmartin.backflowcalculator.helpers.hideKeyboard
 
 class CalculatorFragment :
     BaseMVVMFragment<FragmentCalculatorBinding, CalculatorViewModel>() {

@@ -5,11 +5,11 @@
 
     <data>
 
-        <import type="com.km.backflow.calculator.helpers.Converter" />
+        <import type="nl.kmartin.backflowcalculator.helpers.Converter" />
 
         <variable
             name="viewModel"
-            type="com.km.backflow.calculator.ui.calculator.CalculatorViewModel" />
+            type="nl.kmartin.backflowcalculator.ui.calculator.CalculatorViewModel" />
     </data>
 
     <androidx.appcompat.widget.LinearLayoutCompat

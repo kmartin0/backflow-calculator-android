@@ -153,11 +153,11 @@
 
     <data>
 
-        <import type="com.km.backflow.calculator.helpers.Converter" />
+        <import type="nl.kmartin.backflowcalculator.helpers.Converter" />
 
         <variable
             name="calculatorForm"
-            type="com.km.backflow.calculator.form.CalculatorForm" />
+            type="nl.kmartin.backflowcalculator.form.CalculatorForm" />
     </data>
 
 </layout>
