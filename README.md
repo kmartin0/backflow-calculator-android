@@ -1,21 +1,23 @@
 # Backflow Calculator
 
-Backflow calculator to simplify the process of calculating the total boxes to be returned.
+Native Android application for simplifying the calculation of the total number of boxes to be returned.
 
 ## Features
 
 - Calculate On The Floor using Supply and SGF.
 - Calculate Fill Amount using ASSQ and Flex.
 - Calculate Backflow using MUPQ Per Box.
-- Calculate Total Boxes To Be Returned using the calculated fields from above (On The Floor, Fill Amount, and Backflow).
-- Receive update notification when a new release is made on Github.
-- Generate QR code which directs to the latest release on Github.
+- Calculate Total Boxes To Be Returned using the calculated On The Floor, Fill Amount and Backflow values.
+- Receive update notifications when a new release is published on GitHub.
+- Generate a QR code linking to the latest GitHub release.
 
-## Tech used
+## Technical Overview
 
 - Kotlin.
-- MVVM using Architecture Components.
+- MVVM architecture using Android Architecture Components.
 
 ## Screenshots
 
-![Home screenshot](https://github.com/kmartin0/assets/blob/master/backflow-calculator/backflow_calculator_main.png?raw=true)
+<img src="https://github.com/kmartin0/assets/blob/master/backflow-calculator-android/backflow-calculator_home-empty.png?raw=true" alt="Empty calculator screenshot" width="300" />
+
+<img src="https://github.com/kmartin0/assets/blob/master/backflow-calculator-android/backflow-calculator_home-filled-in.png?raw=true" alt="Completed calculator screenshot" width="300" />
