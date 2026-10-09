@@ -1,4 +1,4 @@
-# Backflow Calculator
+# Backflow Calculator Android
 
 Native Android application for simplifying the calculation of the total number of boxes to be returned.
 
